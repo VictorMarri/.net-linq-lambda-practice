@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.exe
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.deps.json
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.runtimeconfig.json
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.runtimeconfig.dev.json
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.dll
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\ref\LinqLambdaApplication.dll
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\bin\Debug\net5.0\LinqLambdaApplication.pdb
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.AssemblyInfo.cs
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.dll
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\ref\LinqLambdaApplication.dll
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.pdb
+C:\Users\victo\source\repos\LinqLambdaApplication\LinqLambdaApplication\obj\Debug\net5.0\LinqLambdaApplication.genruntimeconfig.cache
